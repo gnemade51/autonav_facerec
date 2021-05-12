@@ -1,7 +1,6 @@
 import cv2
 import os
 from gtts import gTTS
-import argparse
 import warnings
 warnings.filterwarnings("ignore")
 
